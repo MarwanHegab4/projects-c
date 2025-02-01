@@ -1,4 +1,4 @@
-1. Project Requirements (60 points)
+1. Project Requirements
     a. Three core processes using `fork()` and `execl()`. 
         - In main.c, this is done in the for-loop: for (int i = 0; i < NUM_CORES; i++)
 
@@ -48,22 +48,3 @@
     o. The program accepts `<total_tasks>` and `<max_sleep_time>` as input arguments (this is done in main.c).
 
     p. The program avoids memory leakage.
-
-2. 
-    a. Functions and variables are named to reflect their purpose.
-    b. Global variables are minimized and used appropriately.
-    c. Control flow is used effectively to manage the program.
-    d. The program avoids unnecessary blocking and confusing constructs.
-
-3. 
-    a. Throughout the proejct, I followed a consistent style to write the code.
-    b. Indentation and spacing adhered to in the project.
-    c. Variable names are used to describe what they hold.
-    d. Comments are used throughout the project.
-    e. Variables are documented in an understanble manner.
-    f. Functions have comments to describe the parameters and return values.
-
-4. 
-    a. This document provides an onverview of the project.
-    b. This document highlights how my code satisifies the requirments of the project.
-    c. The code is compatible using Makefile so you can run it and test that it works.
